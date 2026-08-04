@@ -14,4 +14,4 @@ A few links worth bookmarking as you get started with open source.
 - [How-to guides](https://community.codetopia.org/how-tos)
 - [Discord](https://discord.gg/nPmRWdTQAK)
 - [Open Source Onboarding](https://github.com/codetopiacommunity/opensource-onboarding)
-- [Contributing guide](https://github.com/codetopiacommunity/open-source-practice/blob/main/CONTRIBUTING.mdd)
+- [open-source-practice repo](https://github.com/codetopiacommunity/open-source-practice)

@@ -23,13 +23,13 @@ One at a time. Finish and close your current one before claiming another.
 
 **My pull request has a conflict. What do I do?**
 
-This is normal. See the "Resolving a Merge Conflict" guide in the
-[onboarding repo](https://github.com/codetopiacommunity/opensource-onboarding)
-for a step-by-step walkthrough.
+This is normal. See the
+[Resolving a Merge Conflict](https://github.com/codetopiacommunity/opensource-onboarding/blob/main/07-resolving-a-merge-conflict.md)
+guide for a step-by-step walkthrough.
 
 **Who reviews my pull request?**
 
 A Codetopia maintainer will review it. Reviews usually happen within a
 few days. If you have not heard back after a week, feel free to leave a
-polite comment or ask in Discord. Response times are tipically faster
+polite comment or ask in Discord. Response times are typically faster
 there.
