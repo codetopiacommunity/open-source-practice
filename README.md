@@ -17,8 +17,8 @@ time, starting from your very first terminal command.
 ---
 ## What's in here
 
-- `CONTRIBUTORS.md`: add yourself here. This is usually your first
-  ever pull request.
+- `contributors/`: add a file about yourself here. This is usually
+  your first ever pull request. See `contributors/README.md`.
 - `docs/`: a few small, real problems (a typo, a broken link) filed as
   Issues. Pick one, claim it, fix it.
 - A `docs/conflict-practice.md` file and a `simulated-upstream-change`
@@ -28,6 +28,8 @@ time, starting from your very first terminal command.
 ---
 ## Ground rules
 
+- Your first pull request adds your own file to `contributors/`. Only
+  touch your own file.
 - One pull request per issue.
 - Comment on an issue to claim it before you start working on it.
 - Be kind in reviews. Everyone here is learning.
