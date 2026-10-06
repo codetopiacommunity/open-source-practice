@@ -2,4 +2,4 @@
 
 - From: Accra, Ghana
 - Learning right now: GitHub
-- Fun fact: this file tests the first pull request guide
+- Fun fact: I learned what a fork is today
